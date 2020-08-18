@@ -1,5 +1,3 @@
-# ELC Coding Test
-
 A live search test app!
 
 
